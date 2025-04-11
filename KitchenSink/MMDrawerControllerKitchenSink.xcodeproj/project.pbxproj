@@ -275,6 +275,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 294A1D0417199537005BF6B1;
@@ -407,7 +408,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ExampleFiles/MMDrawerControllerKitchenSink-Prefix.pch";
 				INFOPLIST_FILE = "ExampleFiles/MMDrawerControllerKitchenSink-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				PRODUCT_NAME = MMDrawerControllerKitchenSink;
 				WARNING_CFLAGS = "-Wdocumentation";
 				WRAPPER_EXTENSION = app;
@@ -420,7 +421,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ExampleFiles/MMDrawerControllerKitchenSink-Prefix.pch";
 				INFOPLIST_FILE = "ExampleFiles/MMDrawerControllerKitchenSink-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				PRODUCT_NAME = MMDrawerControllerKitchenSink;
 				WARNING_CFLAGS = "-Wdocumentation";
 				WRAPPER_EXTENSION = app;
